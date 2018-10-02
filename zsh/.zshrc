@@ -102,7 +102,7 @@ alias p2='python2.7'
 #return from virtualenv
 alias ret='. ~/.bashrc'
 
-alias ls='ls -ltF --color=auto'
+alias ls='ls -lthF --color=auto'
 alias ll='ls -alF'
 alias la='ls -A'
 
